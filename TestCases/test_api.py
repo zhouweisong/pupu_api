@@ -64,8 +64,10 @@ class Test_Api(unittest.TestCase):
             res_id = re.findall(temp[1], res.text)
             global_vars[temp[0]] = res_id[0]
 
-        logging.info('期望结果是：' + case_data["expected_data"])
-        logging.info('实际结果是：' + res.text)
+        logging.info('期望结果是：')
+        logging.info(case_data["expected_data"])
+        logging.info('实际结果是：')
+        logging.info(str(res.text))
 
         #判断断言选择类型 是全值匹配 还是 包含匹配
         if int(case_data['compare_type']) == 0:
