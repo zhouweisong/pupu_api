@@ -12,7 +12,7 @@
 __author__ = 'zws'
 
 from openpyxl import load_workbook
-from Common.my_logger import *
+from Common.myLogger import *
 
 class DoExcel:
 
@@ -29,6 +29,7 @@ class DoExcel:
             key = self.sh_prepar_data.cell(row=index,column =1).value
             init_datas[key] = self.sh_prepar_data.cell(row=index,column =2).value
             init_datas["${init_phone_1}"] = str(int(init_datas["${init_phone}"])+1)
+            init_datas["${init_pre_phone}"] = str(int(init_datas["${init_phone}"])-2)
 
         return init_datas
 
@@ -47,7 +48,7 @@ class DoExcel:
         for index in range(2,self.sh_case_data.max_row+1):
             case_data ={}
             case_data["case_id"] = self.sh_case_data.cell(row=index,column=1).value
-            case_data["api_name"] = self.sh_case_data.cell(row=index,column=4).value
+            case_data["api_name"] = self.sh_case_data.cell(row=index,column=3).value
             case_data["method"] = self.sh_case_data.cell(row=index, column=5).value
             case_data["url"] = self.sh_case_data.cell(row=index, column=6).value
 

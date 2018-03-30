@@ -14,7 +14,7 @@ __author__ = 'zws'
 from Common.HTMLTestRunnerNew import HTMLTestRunner
 import unittest
 from TestCases import test_api
-from Common import dir_config
+from Common import dirConfig
 import time
 
 s = unittest.TestSuite()
@@ -22,7 +22,7 @@ ul =unittest.TestLoader()
 s.addTest(ul.loadTestsFromModule(test_api))
 
 now = time.strftime('%Y_%m_%d_%H_%M_%S')
-html_report_path =dir_config.htmlreport_dir+'/'+now+'.html'
+html_report_path = dirConfig.htmlreport_dir + '/' + now + '.html'
 
 fp = open(html_report_path,'wb')
 

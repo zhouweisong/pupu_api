@@ -15,12 +15,13 @@ from Common.DoExcel import DoExcel
 from Common import myRequest
 import unittest
 import ddt
-from Common.my_logger import *
+from Common.myLogger import *
 import re
+from Common.verifyCode_40005 import verify_code_40005
 
 # 获取所有的测试数据
 
-excel_path = dir_config.testcase_dir + "/api_info.xlsx"
+excel_path = dirConfig.testcase_dir + "/api_info.xlsx"
 de = DoExcel(excel_path)
 all_case_datas = de.get_caseDatas_all()
 
@@ -35,7 +36,7 @@ class Test_Api(unittest.TestCase):
     def setUpClass(cls):
         de.modify_phone()
         de.save_excelFile()
-
+        verify_code_40005()
 
     @classmethod
     def tearDownClass(cls):
@@ -43,6 +44,7 @@ class Test_Api(unittest.TestCase):
 
     @ddt.data(*all_case_datas)
     def test_api(self, case_data):
+        ua = {"User-Agent":"Jiemoapp 1.0.0.0 (Android (22/5.1.1; 480dpi; 1080x1920; smartisan/SMARTISAN; YQ601; msm8916_32; qcom))"}
 
         global global_vars
 
@@ -56,6 +58,8 @@ class Test_Api(unittest.TestCase):
                     case_data["request_data"] = case_data["request_data"].replace(key, value)
 
         res = myRequest.myRequest(case_data["url"], case_data["method"], case_data["request_data"])
+        logging.debug(case_data["request_data"])
+        logging.debug(res.text)
 
         if 'related_exp' in case_data.keys():
             logging.info('需要从响应结果中提取数据：')
