@@ -12,7 +12,7 @@
 __author__ = 'zws'
 
 import logging
-from Common import dir_config
+from Common import dirConfig
 from logging.handlers import RotatingFileHandler
 import time
 
@@ -20,7 +20,7 @@ fmt = " %(asctime)s  %(levelname)s %(filename)s %(funcName)s [ line:%(lineno)d ]
 datefmt = '%a, %d %b %Y %H:%M:%S'
 
 rq = time.strftime('%Y%m%d%H%M', time.localtime(time.time()))
-logpath = dir_config.log_dir + '/' + "app_autoTest_"+rq+".log"
+logpath = dirConfig.log_dir + '/' + "app_autoTest_" + rq + ".log"
 
 handler_1 = logging.StreamHandler()
 handler_1.setLevel(logging.DEBUG)
