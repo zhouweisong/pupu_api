@@ -28,15 +28,16 @@ class DoExcel:
         for index in range(2, self.sh_prepar_data.max_row + 1):
             key = self.sh_prepar_data.cell(row=index,column =1).value
             init_datas[key] = self.sh_prepar_data.cell(row=index,column =2).value
-            init_datas["${init_phone_1}"] = str(int(init_datas["${init_phone}"])+1)
-            init_datas["${init_pre_phone}"] = str(int(init_datas["${init_phone}"])-2)
+            init_datas["${phone_b}"] = str(int(init_datas["${phone_a}"])+1)
+            init_datas["${phone_c}"] = str(int(init_datas["${phone_a}"])+2)
+            init_datas["${pre_phone_a}"] = str(int(init_datas["${phone_a}"])-3)
 
         return init_datas
 
 
     def modify_phone(self):
         res = int(self.sh_prepar_data.cell(row=2,column=2).value)
-        self.sh_prepar_data.cell(row=2, column=2).value = str(res +2)
+        self.sh_prepar_data.cell(row=2, column=2).value = str(res +3)
 
 
     def save_excelFile(self,):
@@ -69,5 +70,9 @@ class DoExcel:
             # 判断本次用例是否需要对响应结果进行解析，并获取其中的值。
             if self.sh_case_data.cell(row=index, column=10).value is not None:
                 case_data["related_exp"] = self.sh_case_data.cell(row=index, column=10).value
+
+            if self.sh_case_data.cell(row=index, column=11).value is not None:
+                case_data["related_exp1"] = self.sh_case_data.cell(row=index, column=11).value
+
             all_case_datas.append(case_data)
         return all_case_datas

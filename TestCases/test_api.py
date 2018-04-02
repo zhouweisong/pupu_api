@@ -44,7 +44,8 @@ class Test_Api(unittest.TestCase):
 
     @ddt.data(*all_case_datas)
     def test_api(self, case_data):
-        ua = {"User-Agent":"Jiemoapp 1.0.0.0 (Android (22/5.1.1; 480dpi; 1080x1920; smartisan/SMARTISAN; YQ601; msm8916_32; qcom))"}
+        ua = {"user-agent":"Jiemoapp 1.5.0.15 (Android (26/8.0.0; 480dpi; 1080x1920; HUAWEI; ALP-AL00; HWALP; kirin970))",
+              "device-id":"65c049254538bd4f00c857e0d01b8fbb","device-mac":"1c:15:1f:1f:7b:6d"}
 
         global global_vars
 
@@ -56,17 +57,43 @@ class Test_Api(unittest.TestCase):
                 if case_data["request_data"].find(key) != -1:
                     logging.info('需要在参数中替换全局变量')
                     case_data["request_data"] = case_data["request_data"].replace(key, value)
+                    logging.debug(case_data["request_data"])
 
         res = myRequest.myRequest(case_data["url"], case_data["method"], case_data["request_data"])
         logging.debug(case_data["request_data"])
         logging.debug(res.text)
+
+
+
+
+
 
         if 'related_exp' in case_data.keys():
             logging.info('需要从响应结果中提取数据：')
             temp = case_data['related_exp'].split("=")
 
             res_id = re.findall(temp[1], res.text)
+            logging.debug('========================related_exp==============================')
+            logging.debug(res_id)
             global_vars[temp[0]] = res_id[0]
+            logging.debug('用户的票 是 ：')
+            logging.debug(global_vars[temp[0]])
+
+        if 'related_exp1' in case_data.keys():
+            logging.info('需要从响应结果中提取数据：')
+            temp = case_data['related_exp1'].split("=")
+
+            res_id = re.findall(temp[1], res.text)
+            logging.debug('========================related_exp1==============================')
+            logging.debug(res_id)
+            global_vars[temp[0]] = res_id[0]
+            logging.debug('用户的id 是 ：')
+            logging.debug(global_vars[temp[0]])
+
+
+
+
+
 
         logging.info('期望结果是：')
         logging.info(case_data["expected_data"])
