@@ -3,7 +3,7 @@
    File Name：     test_api
    Description :
    Author :       zws
-   date：          2018/3/13
+   date：          2017/8/13
 -------------------------------------------------
    Change Activity:
                    2018/3/13:
@@ -51,6 +51,7 @@ class Test_Api(unittest.TestCase):
 
         logging.info('==============开始执行第%d个测试用例============='%case_data['case_id'])
 
+
         #动态替换 - 判断请求数据中，是否要替换全局变量的值、全局变量是否存在。
         if len(global_vars) > 0 and case_data["request_data"] is not None:
             for key,value in global_vars.items():
@@ -58,15 +59,13 @@ class Test_Api(unittest.TestCase):
                     logging.info('需要在参数中替换全局变量')
                     case_data["request_data"] = case_data["request_data"].replace(key, value)
                     logging.debug(case_data["request_data"])
+                if case_data["expected_data"].find(key) != -1:
+                    case_data["expected_data"] = case_data["expected_data"].replace(key, value)
+
 
         res = myRequest.myRequest(case_data["url"], case_data["method"], case_data["request_data"])
         logging.debug(case_data["request_data"])
         logging.debug(res.text)
-
-
-
-
-
 
         if 'related_exp' in case_data.keys():
             logging.info('需要从响应结果中提取数据：')
@@ -90,7 +89,13 @@ class Test_Api(unittest.TestCase):
             logging.debug('用户的id 是 ：')
             logging.debug(global_vars[temp[0]])
 
-
+        # # 动态替换 - 判断请求数据中，是否要替换全局变量的值、全局变量是否存在。
+        # if len(global_vars) > 0 and case_data["request_data"] is not None:
+        #     for key, value in global_vars.items():
+        #         if case_data["request_data"].find(key) != -1:
+        #             logging.info('需要在参数中替换全局变量')
+        #             case_data["request_data"] = case_data["request_data"].replace(key, value)
+        #             logging.debug(case_data["request_data"])
 
 
 
