@@ -48,8 +48,10 @@ class DoExcel:
         all_case_datas = []
         for index in range(2,self.sh_case_data.max_row+1):
             case_data ={}
+
             case_data["case_id"] = self.sh_case_data.cell(row=index,column=1).value
-            case_data["api_name"] = self.sh_case_data.cell(row=index,column=3).value
+            case_data["case_info"] = self.sh_case_data.cell(row=index,column=3).value
+            case_data["api_name"] = self.sh_case_data.cell(row=index,column=4).value
             case_data["method"] = self.sh_case_data.cell(row=index, column=5).value
             case_data["url"] = self.sh_case_data.cell(row=index, column=6).value
 
