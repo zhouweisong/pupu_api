@@ -1,0 +1,570 @@
+ Mon, 02 Apr 2018 19:33:19  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:20  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668800265,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:20  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668800650,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:20  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":8,"code":1,"desc":"Success","timestamp":1522668801018,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:20  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:21  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":6,"code":1,"desc":"Success","timestamp":1522668801375,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:21  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668801803,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:21  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:22  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668802281,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:22  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":8,"code":1,"desc":"Success","timestamp":1522668802728,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:22  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:25  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:25  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:26  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668806099,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:26  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668806665,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:26  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify?mobile=13801111155&register=true HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:28  DEBUG verifyCode_40005.py verify_code_40005 [ line:23 ] {"meta":{"cost":8,"code":1,"desc":"Success","timestamp":1522668808210,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:52 ] ==============开始执行第1个测试用例=============
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13801111155","register":"true"}
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668808392,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:99 ] "code":40003
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668808392,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:28  ERROR test_api.py test_api [ line:118 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 115, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":40003' not found in '{"meta":{"cost":7,"code":1,"desc":"Success","timestamp":1522668808392,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}'
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:52 ] ==============开始执行第2个测试用例=============
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000111","register":"true"}
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":11,"code":1,"desc":"Success","timestamp":1522668808669,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:99 ] "code":40002
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":11,"code":1,"desc":"Success","timestamp":1522668808669,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:28  ERROR test_api.py test_api [ line:118 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 115, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":40002' not found in '{"meta":{"cost":11,"code":1,"desc":"Success","timestamp":1522668808669,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}'
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:52 ] ==============开始执行第3个测试用例=============
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000111","register":"false"}
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":3,"code":40037,"desc":"Unregistered","timestamp":1522668808830,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":3,"code":40037,"desc":"Unregistered","timestamp":1522668808830,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:28  ERROR test_api.py test_api [ line:118 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 115, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":1' not found in '{"meta":{"cost":3,"code":40037,"desc":"Unregistered","timestamp":1522668808830,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}'
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:52 ] ==============开始执行第4个测试用例=============
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:63 ] {"mobile":""}
+ Mon, 02 Apr 2018 19:33:28  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668809004,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:99 ] "code":40001
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668809004,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:28  INFO test_api.py test_api [ line:52 ] ==============开始执行第5个测试用例=============
+ Mon, 02 Apr 2018 19:33:28  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:29  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:29  DEBUG test_api.py test_api [ line:63 ] {"mobile":"123456"}
+ Mon, 02 Apr 2018 19:33:29  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668809200,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:99 ] "code":40001
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668809200,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:52 ] ==============开始执行第6个测试用例=============
+ Mon, 02 Apr 2018 19:33:29  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:29  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:29  DEBUG test_api.py test_api [ line:63 ] {"mobile": "13410000115","register":"true"}
+ Mon, 02 Apr 2018 19:33:29  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":11,"code":1,"desc":"Success","timestamp":1522668809582,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":11,"code":1,"desc":"Success","timestamp":1522668809582,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:52 ] ==============开始执行第7个测试用例=============
+ Mon, 02 Apr 2018 19:33:29  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:29  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:29  DEBUG test_api.py test_api [ line:63 ] {"mobile": "13410000114","register":"true"}
+ Mon, 02 Apr 2018 19:33:29  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":10,"code":1,"desc":"Success","timestamp":1522668809768,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":10,"code":1,"desc":"Success","timestamp":1522668809768,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:29  INFO test_api.py test_api [ line:52 ] ==============开始执行第8个测试用例=============
+ Mon, 02 Apr 2018 19:33:29  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:63 ] {"nickname":"13410000114","mobile":"13410000114","password":"123456","code":"1234"}
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":40,"code":1,"desc":"Success","timestamp":1522668810163,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"p6T6nGMyJp94iF7ZDnR4XMR-affjVLV8nEkuGCuEzxadYvdcGtBFcrI6EvVNfaxE","userId":"wYOLgnJvDPvW16qv20-Hlg","user":{"trueId":50000165,"identification":"mask-1778198739","authorizations":0,"name":"13410000114","id":"wYOLgnJvDPvW16qv20-Hlg"},"uniqueId":"62345843"}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":40,"code":1,"desc":"Success","timestamp":1522668810163,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"p6T6nGMyJp94iF7ZDnR4XMR-affjVLV8nEkuGCuEzxadYvdcGtBFcrI6EvVNfaxE","userId":"wYOLgnJvDPvW16qv20-Hlg","user":{"trueId":50000165,"identification":"mask-1778198739","authorizations":0,"name":"13410000114","id":"wYOLgnJvDPvW16qv20-Hlg"},"uniqueId":"62345843"}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:52 ] ==============开始执行第9个测试用例=============
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:63 ] {"mobile": "13410000116","register":"true"}
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":8,"code":1,"desc":"Success","timestamp":1522668810584,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":8,"code":1,"desc":"Success","timestamp":1522668810584,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:52 ] ==============开始执行第10个测试用例=============
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:63 ] {"nickname":"13410000116","mobile":"13410000116","password":"123456","code":"1234"}
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":34,"code":1,"desc":"Success","timestamp":1522668810802,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"5AdpGO9oJG1HPbtqQOCjGtTtHGOypKAR67EXhEp7RfLTcRIraxgs5sYRftNp5JKw","userId":"QCgunNxp3BvW16qv20-Hlg","user":{"trueId":50000166,"identification":"mask-1546048589","authorizations":0,"name":"13410000116","id":"QCgunNxp3BvW16qv20-Hlg"},"uniqueId":"62345844"}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:72 ] 需要从响应结果中提取数据：
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:76 ] ========================related_exp==============================
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:77 ] ['5AdpGO9oJG1HPbtqQOCjGtTtHGOypKAR67EXhEp7RfLTcRIraxgs5sYRftNp5JKw']
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:79 ] 用户的票 是 ：
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:80 ] 5AdpGO9oJG1HPbtqQOCjGtTtHGOypKAR67EXhEp7RfLTcRIraxgs5sYRftNp5JKw
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:83 ] 需要从响应结果中提取数据：
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:87 ] ========================related_exp1==============================
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:88 ] ['QCgunNxp3BvW16qv20-Hlg']
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:90 ] 用户的id 是 ：
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:91 ] QCgunNxp3BvW16qv20-Hlg
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":34,"code":1,"desc":"Success","timestamp":1522668810802,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"5AdpGO9oJG1HPbtqQOCjGtTtHGOypKAR67EXhEp7RfLTcRIraxgs5sYRftNp5JKw","userId":"QCgunNxp3BvW16qv20-Hlg","user":{"trueId":50000166,"identification":"mask-1546048589","authorizations":0,"name":"13410000116","id":"QCgunNxp3BvW16qv20-Hlg"},"uniqueId":"62345844"}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:52 ] ==============开始执行第11个测试用例=============
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:63 ] {"nickname":"一二三四五六七八九十一二三四五六七八九十一","mobile":"13410000115","password":"123456","code":"1234"}
+ Mon, 02 Apr 2018 19:33:30  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":2,"code":40007,"desc":"NicknameTooLong","timestamp":1522668810972,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:99 ] "code":40007
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":2,"code":40007,"desc":"NicknameTooLong","timestamp":1522668810972,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:30  INFO test_api.py test_api [ line:52 ] ==============开始执行第12个测试用例=============
+ Mon, 02 Apr 2018 19:33:30  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:63 ] {"nickname":"12345678901234567890","mobile":"13410000111","password":"123456","code":"1234"}
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":29,"code":1,"desc":"Success","timestamp":1522668811172,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"bBRFLgZzi7vl-BUih3nQ_NVhBo_nInfsczp8IW5G-cmVpNPC2CJhQ8m-x5qA-cFC","userId":"hDJu8Jqcu07W16qv20-Hlg","user":{"trueId":50000167,"identification":"mask978427289","authorizations":0,"name":"12345678901234567890","id":"hDJu8Jqcu07W16qv20-Hlg"},"uniqueId":"62345845"}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:99 ] "code":40002
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":29,"code":1,"desc":"Success","timestamp":1522668811172,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"bBRFLgZzi7vl-BUih3nQ_NVhBo_nInfsczp8IW5G-cmVpNPC2CJhQ8m-x5qA-cFC","userId":"hDJu8Jqcu07W16qv20-Hlg","user":{"trueId":50000167,"identification":"mask978427289","authorizations":0,"name":"12345678901234567890","id":"hDJu8Jqcu07W16qv20-Hlg"},"uniqueId":"62345845"}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:31  ERROR test_api.py test_api [ line:118 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 115, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":40002' not found in '{"meta":{"cost":29,"code":1,"desc":"Success","timestamp":1522668811172,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"bBRFLgZzi7vl-BUih3nQ_NVhBo_nInfsczp8IW5G-cmVpNPC2CJhQ8m-x5qA-cFC","userId":"hDJu8Jqcu07W16qv20-Hlg","user":{"trueId":50000167,"identification":"mask978427289","authorizations":0,"name":"12345678901234567890","id":"hDJu8Jqcu07W16qv20-Hlg"},"uniqueId":"62345845"}}'
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:52 ] ==============开始执行第13个测试用例=============
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:63 ] {"nickname":"12345678900987654321","mobile":"1761008615","password":"123456","code":"1234"}
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":2,"code":40001,"desc":"MobileInvalid","timestamp":1522668811407,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:99 ] "code":40001
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":2,"code":40001,"desc":"MobileInvalid","timestamp":1522668811407,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:52 ] ==============开始执行第14个测试用例=============
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:63 ] {"nickname":"12345678900987654321","mobile":"13410000115","password":"123456","code":"4321"}
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":5,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668811663,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:99 ] "code":40004
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":5,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668811663,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:52 ] ==============开始执行第15个测试用例=============
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:63 ] {"nickname":"12345678900987654321","mobile":"13410000115","password":"123456","code":""}
+ Mon, 02 Apr 2018 19:33:31  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668811827,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:99 ] "code":40004
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668811827,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:31  INFO test_api.py test_api [ line:52 ] ==============开始执行第16个测试用例=============
+ Mon, 02 Apr 2018 19:33:31  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:63 ] {"nickname":"13410000115","mobile":"13410000115","password":"123456","code":"1234"}
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":38,"code":1,"desc":"Success","timestamp":1522668812053,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"P2Vh9lgQ-ZWhglzD43G0TK3p-BF_feMbncE33UXQ_xyrYOphZVcMEPChrkBQii7Q","userId":"AvhfGil9UEjW16qv20-Hlg","user":{"trueId":50000168,"identification":"mask309030268","authorizations":0,"name":"13410000115","id":"AvhfGil9UEjW16qv20-Hlg"},"uniqueId":"62345846"}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:72 ] 需要从响应结果中提取数据：
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:76 ] ========================related_exp==============================
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:77 ] ['P2Vh9lgQ-ZWhglzD43G0TK3p-BF_feMbncE33UXQ_xyrYOphZVcMEPChrkBQii7Q']
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:79 ] 用户的票 是 ：
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:80 ] P2Vh9lgQ-ZWhglzD43G0TK3p-BF_feMbncE33UXQ_xyrYOphZVcMEPChrkBQii7Q
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:83 ] 需要从响应结果中提取数据：
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:87 ] ========================related_exp1==============================
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:88 ] ['AvhfGil9UEjW16qv20-Hlg']
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:90 ] 用户的id 是 ：
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:91 ] AvhfGil9UEjW16qv20-Hlg
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":38,"code":1,"desc":"Success","timestamp":1522668812053,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"P2Vh9lgQ-ZWhglzD43G0TK3p-BF_feMbncE33UXQ_xyrYOphZVcMEPChrkBQii7Q","userId":"AvhfGil9UEjW16qv20-Hlg","user":{"trueId":50000168,"identification":"mask309030268","authorizations":0,"name":"13410000115","id":"AvhfGil9UEjW16qv20-Hlg"},"uniqueId":"62345846"}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:52 ] ==============开始执行第17个测试用例=============
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/password HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","password":""}
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":4,"code":40000,"desc":"LoginFailed","timestamp":1522668812225,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:99 ] "code":40000
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":4,"code":40000,"desc":"LoginFailed","timestamp":1522668812225,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:52 ] ==============开始执行第18个测试用例=============
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/password HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","password":"654321"}
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":10,"code":40000,"desc":"LoginFailed","timestamp":1522668812663,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:99 ] "code":40000
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":10,"code":40000,"desc":"LoginFailed","timestamp":1522668812663,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:52 ] ==============开始执行第19个测试用例=============
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/password HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13801111145","password":"123456"}
+ Mon, 02 Apr 2018 19:33:32  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":3,"code":40037,"desc":"Unregistered","timestamp":1522668812884,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:99 ] "code":40037
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":3,"code":40037,"desc":"Unregistered","timestamp":1522668812884,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:32  INFO test_api.py test_api [ line:52 ] ==============开始执行第20个测试用例=============
+ Mon, 02 Apr 2018 19:33:32  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/password HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:63 ] {"mobile":"1380111114","password":"123456"}
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668813070,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:99 ] "code":40001
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668813070,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:52 ] ==============开始执行第21个测试用例=============
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/password HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:63 ] {"mobile":"","password":"123456"}
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668813258,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:99 ] "code":40001
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668813258,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:52 ] ==============开始执行第22个测试用例=============
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/password HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","password":"123456"}
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":26,"code":1,"desc":"Success","timestamp":1522668813482,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"Ky8k9sd7W61IKE_DRp3Wag4qBNNLKrHV36SSOx4ECEmRG7cjwfdRQ7TzI0cRTxl1","hasPassword":true,"user":{"trueId":50000165,"identification":"mask-1778198739","authorizations":0,"name":"13410000114","id":"wYOLgnJvDPvW16qv20-Hlg"},"uniqueId":"62345843"}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":26,"code":1,"desc":"Success","timestamp":1522668813482,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"Ky8k9sd7W61IKE_DRp3Wag4qBNNLKrHV36SSOx4ECEmRG7cjwfdRQ7TzI0cRTxl1","hasPassword":true,"user":{"trueId":50000165,"identification":"mask-1778198739","authorizations":0,"name":"13410000114","id":"wYOLgnJvDPvW16qv20-Hlg"},"uniqueId":"62345843"}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:52 ] ==============开始执行第23个测试用例=============
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/verifycode HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13801121155","code":"1234"}
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":2,"code":40037,"desc":"Unregistered","timestamp":1522668813708,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:99 ] "code":40037
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":2,"code":40037,"desc":"Unregistered","timestamp":1522668813708,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:52 ] ==============开始执行第24个测试用例=============
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/verifycode HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:63 ] {"mobile":"1380112115","code":"1234"}
+ Mon, 02 Apr 2018 19:33:33  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668813887,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:99 ] "code":40001
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668813887,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:33  INFO test_api.py test_api [ line:52 ] ==============开始执行第25个测试用例=============
+ Mon, 02 Apr 2018 19:33:33  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/verifycode HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:63 ] {"mobile":"","code":"1234"}
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668814068,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:99 ] "code":40001
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":40001,"desc":"MobileInvalid","timestamp":1522668814068,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:52 ] ==============开始执行第26个测试用例=============
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","register":"false"}
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":16,"code":1,"desc":"Success","timestamp":1522668814287,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":16,"code":1,"desc":"Success","timestamp":1522668814287,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:52 ] ==============开始执行第27个测试用例=============
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/verifycode HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","code":""}
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":2,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668814499,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:99 ] "code":40004
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":2,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668814499,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:52 ] ==============开始执行第28个测试用例=============
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","register":"false"}
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":10,"code":1,"desc":"Success","timestamp":1522668814733,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":10,"code":1,"desc":"Success","timestamp":1522668814733,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:52 ] ==============开始执行第29个测试用例=============
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/verifycode HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","code":"4321"}
+ Mon, 02 Apr 2018 19:33:34  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":9,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668814907,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:99 ] "code":40004
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":9,"code":40004,"desc":"MobileCodeWrong","timestamp":1522668814907,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:34  INFO test_api.py test_api [ line:52 ] ==============开始执行第30个测试用例=============
+ Mon, 02 Apr 2018 19:33:34  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","register":"false"}
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":9,"code":1,"desc":"Success","timestamp":1522668815087,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":9,"code":1,"desc":"Success","timestamp":1522668815087,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:52 ] ==============开始执行第31个测试用例=============
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/login/verifycode HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:63 ] {"mobile":"13410000114","code":"1234"}
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":29,"code":1,"desc":"Success","timestamp":1522668815299,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0","hasPassword":true,"user":{"trueId":50000165,"identification":"mask-1778198739","authorizations":0,"name":"13410000114","id":"wYOLgnJvDPvW16qv20-Hlg"},"uniqueId":"62345843"}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:72 ] 需要从响应结果中提取数据：
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:76 ] ========================related_exp==============================
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:77 ] ['dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0']
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:79 ] 用户的票 是 ：
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:80 ] dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:83 ] 需要从响应结果中提取数据：
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:87 ] ========================related_exp1==============================
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:88 ] ['wYOLgnJvDPvW16qv20-Hlg']
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:90 ] 用户的id 是 ：
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:91 ] wYOLgnJvDPvW16qv20-Hlg
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":29,"code":1,"desc":"Success","timestamp":1522668815299,"hostname":"hy-10-10-5-222.dd.hn"},"data":{"ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0","hasPassword":true,"user":{"trueId":50000165,"identification":"mask-1778198739","authorizations":0,"name":"13410000114","id":"wYOLgnJvDPvW16qv20-Hlg"},"uniqueId":"62345843"}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:116 ] 结果对比成功，测试用例通过
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:52 ] ==============开始执行第32个测试用例=============
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:63 ] None
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668815530,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:99 ] None
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668815530,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:52 ] ==============开始执行第33个测试用例=============
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:63 ] None
+ Mon, 02 Apr 2018 19:33:35  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668815897,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:99 ] None
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668815897,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:35  INFO test_api.py test_api [ line:52 ] ==============开始执行第34个测试用例=============
+ Mon, 02 Apr 2018 19:33:35  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:63 ] None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816078,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:99 ] None
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816078,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:52 ] ==============开始执行第35个测试用例=============
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:63 ] None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816265,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:99 ] None
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816265,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:52 ] ==============开始执行第36个测试用例=============
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:63 ] None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668816468,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:99 ] None
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668816468,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:52 ] ==============开始执行第37个测试用例=============
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:58 ] 需要在参数中替换全局变量
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:60 ] {"user":"Gr5AziDRI5_W16qv20-Hlg","type":"1","from":"0","ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0"}
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:63 ] {"user":"Gr5AziDRI5_W16qv20-Hlg","type":"1","from":"0","ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0"}
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668816662,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668816662,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:36  ERROR test_api.py test_api [ line:118 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 115, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":1' not found in '{"meta":{"cost":1,"code":401,"desc":"Unauthorized","timestamp":1522668816662,"hostname":"hy-10-10-5-222.dd.hn"}}'
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:52 ] ==============开始执行第38个测试用例=============
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:58 ] 需要在参数中替换全局变量
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:60 ] {"user":"AvhfGil9UEjW16qv20-Hlg","type":"2","from":"1","ticket":"${ticket_a}"}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:58 ] 需要在参数中替换全局变量
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:60 ] {"user":"AvhfGil9UEjW16qv20-Hlg","type":"2","from":"1","ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0"}
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:63 ] {"user":"AvhfGil9UEjW16qv20-Hlg","type":"2","from":"1","ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0"}
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816813,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816813,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:36  ERROR test_api.py test_api [ line:118 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 115, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":1' not found in '{"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816813,"hostname":"hy-10-10-5-222.dd.hn"}}'
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:52 ] ==============开始执行第39个测试用例=============
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:58 ] 需要在参数中替换全局变量
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:60 ] {"user":"QCgunNxp3BvW16qv20-Hlg","type":"3","from":"2","ticket":"${ticket_a}"}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:58 ] 需要在参数中替换全局变量
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:60 ] {"user":"QCgunNxp3BvW16qv20-Hlg","type":"3","from":"2","ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0"}
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Mon, 02 Apr 2018 19:33:36  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/friend/request/send HTTP/1.1" 200 None
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:63 ] {"user":"QCgunNxp3BvW16qv20-Hlg","type":"3","from":"2","ticket":"dcsFfXxOweGI0FXUPrXXpU6HC6U56DrQpGZfoYUdNzoTeJtkGG8jLV1KyuclhDk0"}
+ Mon, 02 Apr 2018 19:33:36  DEBUG test_api.py test_api [ line:64 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816966,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:98 ] 期望结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:99 ] "code":1
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:100 ] 实际结果是：
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:101 ] {"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816966,"hostname":"hy-10-10-5-222.dd.hn"}}
+ Mon, 02 Apr 2018 19:33:36  INFO test_api.py test_api [ line:113 ] 部分匹配模式
+ Mon, 02 Apr 2018 19:33:36  ERROR test_api.py test_api [ line:118 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 115, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":1' not found in '{"meta":{"cost":0,"code":401,"desc":"Unauthorized","timestamp":1522668816966,"hostname":"hy-10-10-5-222.dd.hn"}}'

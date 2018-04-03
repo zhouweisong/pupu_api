@@ -1,0 +1,119 @@
+ Thu, 29 Mar 2018 15:16:22  INFO test_api.py test_api [ line:49 ] ==============开始执行第1个测试用例=============
+ Thu, 29 Mar 2018 15:16:22  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Thu, 29 Mar 2018 15:16:22  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Thu, 29 Mar 2018 15:16:22  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:22  INFO test_api.py test_api [ line:68 ] "code":40003
+ Thu, 29 Mar 2018 15:16:22  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:22  INFO test_api.py test_api [ line:70 ] {"meta":{"code":40002,"cost":10,"desc":"AlreadyRegistered","timestamp":1522307780457,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Thu, 29 Mar 2018 15:16:22  INFO test_api.py test_api [ line:82 ] 部分匹配模式
+ Thu, 29 Mar 2018 15:16:22  ERROR test_api.py test_api [ line:87 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 84, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":40003' not found in '{"meta":{"code":40002,"cost":10,"desc":"AlreadyRegistered","timestamp":1522307780457,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}'
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:49 ] ==============开始执行第2个测试用例=============
+ Thu, 29 Mar 2018 15:16:23  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Thu, 29 Mar 2018 15:16:23  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:68 ] "code": 40002
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:70 ] {"meta":{"code":40002,"cost":6,"desc":"AlreadyRegistered","timestamp":1522307780650,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:82 ] 部分匹配模式
+ Thu, 29 Mar 2018 15:16:23  ERROR test_api.py test_api [ line:87 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 84, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code": 40002' not found in '{"meta":{"code":40002,"cost":6,"desc":"AlreadyRegistered","timestamp":1522307780650,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}'
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:49 ] ==============开始执行第3个测试用例=============
+ Thu, 29 Mar 2018 15:16:23  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Thu, 29 Mar 2018 15:16:23  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:68 ] "code":1
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:70 ] {"meta":{"code":1,"cost":44,"desc":"Success","timestamp":1522307780846,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:82 ] 部分匹配模式
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:85 ] 结果对比成功，测试用例通过
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:49 ] ==============开始执行第4个测试用例=============
+ Thu, 29 Mar 2018 15:16:23  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Thu, 29 Mar 2018 15:16:23  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:68 ] "code":40001
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:70 ] {"meta":{"code":40001,"cost":2,"desc":"MobileInvalid","timestamp":1522307781176,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:82 ] 部分匹配模式
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:85 ] 结果对比成功，测试用例通过
+ Thu, 29 Mar 2018 15:16:23  INFO test_api.py test_api [ line:49 ] ==============开始执行第5个测试用例=============
+ Thu, 29 Mar 2018 15:16:23  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Thu, 29 Mar 2018 15:16:24  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] "code":40001
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:70 ] {"meta":{"code":40001,"cost":2,"desc":"MobileInvalid","timestamp":1522307781775,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:82 ] 部分匹配模式
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:85 ] 结果对比成功，测试用例通过
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第6个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Thu, 29 Mar 2018 15:16:24  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/verify HTTP/1.1" 200 None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] "code":1
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:70 ] {"meta":{"code":1,"cost":20,"desc":"Success","timestamp":1522307782077,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:82 ] 部分匹配模式
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:85 ] 结果对比成功，测试用例通过
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第7个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  DEBUG connectionpool.py _new_conn [ line:208 ] Starting new HTTP connection (1): api798.impupu.com
+ Thu, 29 Mar 2018 15:16:24  DEBUG connectionpool.py _make_request [ line:396 ] http://api798.impupu.com:80 "POST /api/register HTTP/1.1" 200 None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] "code":1
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:70 ] {"meta":{"code":40004,"cost":7,"desc":"MobileCodeWrong","timestamp":1522307782398,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:82 ] 部分匹配模式
+ Thu, 29 Mar 2018 15:16:24  ERROR test_api.py test_api [ line:87 ] 结果对比失败
+Traceback (most recent call last):
+  File "D:\xiangmu\pupu_api\TestCases\test_api.py", line 84, in test_api
+    self.assertIn(case_data["expected_data"], res.text)
+  File "D:\software\Python\lib\unittest\case.py", line 1088, in assertIn
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\software\Python\lib\unittest\case.py", line 670, in fail
+    raise self.failureException(msg)
+AssertionError: '"code":1' not found in '{"meta":{"code":40004,"cost":7,"desc":"MobileCodeWrong","timestamp":1522307782398,"hostname":"hy-10-10-5-222.dd.hn"},"data":{}}'
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第8个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第9个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第10个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第11个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第12个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第13个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第14个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:49 ] ==============开始执行第15个测试用例=============
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:67 ] 期望结果是：
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:68 ] None
+ Thu, 29 Mar 2018 15:16:24  INFO test_api.py test_api [ line:69 ] 实际结果是：
