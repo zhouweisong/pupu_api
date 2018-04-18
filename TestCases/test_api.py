@@ -64,6 +64,8 @@ class Test_Api(unittest.TestCase):
 
 
         res = myRequest.myRequest(case_data["url"], case_data["method"], case_data["request_data"])
+        logging.debug(1111111111)
+        logging.debug(res)
         logging.debug(case_data["request_data"])
         logging.debug(res.text)
 
